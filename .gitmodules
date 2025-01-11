@@ -1,3 +1,6 @@
 [submodule "Image-Viewer"]
 	path = Image-Viewer
 	url = https://github.com/hamdy-cufe-eng/Image-Viewer.git
+[submodule "Dicom-Viewer"]
+	path = Dicom-Viewer
+	url = https://github.com/hamdy-cufe-eng/Dicom-Viewer.git
