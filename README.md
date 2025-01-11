@@ -1,4 +1,18 @@
 # SBME-Projects
+</p>
+<p align="center">
+    <br> 
+</p>
+<div align="center">
+
+[![GitHub contributors](https://img.shields.io/github/contributors/hamdy-cufe-eng/SBME-Projects)](https://github.com/hamdy-cufe-eng/SBME-Projects/contributors)
+[![GitHub issues](https://img.shields.io/github/issues/hamdy-cufe-eng/SBME-Projects)](https://github.com/hamdy-cufe-eng/SBME-Projects/issues)
+[![GitHub forks](https://img.shields.io/github/forks/hamdy-cufe-eng/SBME-Projects)](https://github.com/hamdy-cufe-eng/SBME-Projects/network)
+[![GitHub stars](https://img.shields.io/github/stars/hamdy-cufe-eng/SBME-Projects)](https://github.com/hamdy-cufe-eng/SBME-Projects/stargazers)
+[![GitHub license](https://img.shields.io/github/license/hamdy-cufe-eng/SBME-Projects)](https://github.com/hamdy-cufe-eng/SBME-Projects/blob/main/LICENSE)
+
+</div>
+
 # ‼️About
 - Hello there , thats all of our Team##9 SMBE2028 projects accomplished through out the year under the supervision of Dr.Tamer BASHA
 # 📝Explaination
