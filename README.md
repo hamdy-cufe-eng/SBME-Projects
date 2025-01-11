@@ -17,6 +17,8 @@
 - Hello there , thats all of our Team##9 SMBE2028 projects accomplished through out the year under the supervision of Dr.Tamer BASHA
 # 📝Explaination
 - All projects are organized as submodules.
+- All projects are python-based with interactive-Modern flat UI 
+
 
 ## 🌐Absolute URLs: *All project links work*
 - [Image Viewer](https://github.com/hamdy-cufe-eng/Image-Viewer)
