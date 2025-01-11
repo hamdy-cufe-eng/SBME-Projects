@@ -4,3 +4,6 @@
 [submodule "Dicom-Viewer"]
 	path = Dicom-Viewer
 	url = https://github.com/hamdy-cufe-eng/Dicom-Viewer.git
+[submodule "Nifti-Viewer"]
+	path = Nifti-Viewer
+	url = https://github.com/hamdy-cufe-eng/nifti-viewer.git
