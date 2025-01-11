@@ -10,3 +10,6 @@
 [submodule "HeatMap"]
 	path = HeatMap
 	url = https://github.com/hamdy-cufe-eng/Heatmap.git
+[submodule "Ai-Organ-Identifier"]
+	path = Ai-Organ-Identifier
+	url = https://github.com/hamdy-cufe-eng/Ai-Organ-Identifier.git
