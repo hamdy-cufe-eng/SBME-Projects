@@ -6,7 +6,7 @@
 
 ## 🌐Absolute URLs: *All project links work*
 - [Image Viewer](https://github.com/hamdy-cufe-eng/Image-Viewer)
-  - [Image_Viewer Readme](https://github.com/hamdy-cufe-eng/blob/main/Image-Viewer/README.md)
+  - [Image_Viewer Readme](https://github.com/hamdy-cufe-eng/Image-Viewer/blob/main/README.md)
 - [DICOM Viewer](https://github.com/hamdy-cufe-eng/Dicom-Viewer)
   - [DICOM_Viewer Readme](https://github.com/hamdy-cufe-eng/Dicom-Viewer/blob/main/README.md)
 - [Nifti 3D Viewer](https://github.com/hamdy-cufe-eng/nifti-viewer)
