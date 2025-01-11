@@ -7,3 +7,6 @@
 [submodule "Nifti-Viewer"]
 	path = Nifti-Viewer
 	url = https://github.com/hamdy-cufe-eng/nifti-viewer.git
+[submodule "HeatMap"]
+	path = HeatMap
+	url = https://github.com/hamdy-cufe-eng/Heatmap.git
