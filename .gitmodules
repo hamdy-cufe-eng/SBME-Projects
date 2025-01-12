@@ -16,3 +16,6 @@
 [submodule "3D-Organ-Puzzle-Game"]
 	path = 3D-Organ-Puzzle-Game
 	url = https://github.com/hamdy-cufe-eng/3D-Organ-Puzzle-Game.git
+[submodule "Super-Waver-Invention"]
+	path = Super-Waver-Invention
+	url = https://github.com/hamdy-cufe-eng/Invention.git
