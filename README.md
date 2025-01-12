@@ -29,8 +29,12 @@
   - [Nifti_3D_Viewer Readme](https://github.com/hamdy-cufe-eng/nifti-viewer/blob/main/README.md)
 - [HeatMap](https://github.com/hamdy-cufe-eng/Heatmap)
   - [HeatMap Readme](https://github.com/hamdy-cufe-eng/Heatmap/blob/main/README.md)
-- [AI_Organ_Identifier](https://github.com/hamdy-cufe-eng/Ai-Organ-Identifier)
+- [AI Organ Identifier](https://github.com/hamdy-cufe-eng/Ai-Organ-Identifier)
   - [AI_Organ_Identifier Readme](https://github.com/hamdy-cufe-eng/Ai-Organ-Identifier/blob/main/README.md)
+- [Organs Puzzle](https://github.com/hamdy-cufe-eng/3D-Organ-Puzzle-Game)
+  - [Organs Puzzle Readme](https://github.com/hamdy-cufe-eng/3D-Organ-Puzzle-Game/blob/main/README.md)
+- [Super Waver Invention](https://github.com/hamdy-cufe-eng/Invention)
+  - [Super Waver Invention Readme](https://github.com/hamdy-cufe-eng/Invention/blob/main/README.md)
 
 ## Contributors <a name = "contributors"></a>
 <table align="center">
