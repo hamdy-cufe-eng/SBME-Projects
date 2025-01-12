@@ -13,3 +13,6 @@
 [submodule "Ai-Organ-Identifier"]
 	path = Ai-Organ-Identifier
 	url = https://github.com/hamdy-cufe-eng/Ai-Organ-Identifier.git
+[submodule "3D-Organ-Puzzle-Game"]
+	path = 3D-Organ-Puzzle-Game
+	url = https://github.com/hamdy-cufe-eng/3D-Organ-Puzzle-Game.git
